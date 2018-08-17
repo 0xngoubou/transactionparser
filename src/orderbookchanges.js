@@ -1,7 +1,7 @@
 'use strict'
 var _ = require('lodash')
 var utils = require('./utils')
-var GlobalBigNumber = require('bignumber.js')
+var GlobalBigNumber = require('bignumber.js-4.1.0')
 var BigNumber = GlobalBigNumber.another({DECIMAL_PLACES: 40})
 //var BigNumber = require('bignumber.js')
 var parseQuality = require('./quality')
