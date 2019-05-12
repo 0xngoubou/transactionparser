@@ -19,7 +19,7 @@
     "ripple-lib-transactionparser"
   ],
   "dependencies": {
-    "bignumber.js-4.1.0": "github:0xngoubou/bignumber.js-4.1.0",
+    "bignumber.js-4.1.0": "github:hoangphuongcs/bignumber.js-4.1.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
